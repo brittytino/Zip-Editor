@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "description": "An online code complier and editor.",
   "main": "app.js",
-  
-  
-    "scripts": {
-      "serve": "vue-cli-service serve"
-        },
-  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devansh016/Cloud-IDE.git"
