@@ -1,36 +1,21 @@
 {
-  "name": "cloud-ide",
+  "name": "your-project-name",
   "version": "1.0.0",
-  "description": "An online code complier and editor.",
-  "main": "app.js",
+  "description": "Your project description",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/devansh016/Cloud-IDE.git"
-  },
-  "author": "Devansh Chaudhary",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/devansh016/Cloud-IDE/issues"
-  },
-  "homepage": "https://github.com/devansh016/Cloud-IDE#readme",
   "dependencies": {
-    "vue": "^2.6.10",
-    "vue-cli-service": "^3.11.0",
-    "axios": "^0.21.1",
-    "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
-    "dotenv": "^10.0.0",
-    "express": "^4.17.1",
-    "nodemon": "^2.0.12"
+    "@vue/cli-service": "^3.12.1",
+    "vue": "^2.6.10"
   },
   "devDependencies": {
-    "@vue/cli": "^5.0.8",
     "@vue/cli-plugin-babel": "^3.11.0",
-    "@vue/cli-plugin-eslint": "^3.11.0",
-    "@vue/cli-service": "^3.11.0"
-  }
+    "@vue/cli-plugin-eslint": "^3.11.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
 }
