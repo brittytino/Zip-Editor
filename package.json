@@ -9,22 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brittytino/Zip-Editor.git"
+    "url": "git+https://github.com/devansh016/Cloud-IDE.git"
   },
-    "bugs": {
-    "url": "https://github.com/brittytino/Zip-Editor/issues"
+  "author": "Devansh Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devansh016/Cloud-IDE/issues"
   },
-  "homepage": "https://github.com/brittytino/Zip-Editor#readme",
+  "homepage": "https://github.com/devansh016/Cloud-IDE#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "vue-template-compiler": "^2.7.16"
+    "nodemon": "^2.0.12"
   },
-  "devDependencies": {
-    "@vue/cli-service": "^5.0.8",
-    "nodemon": "^3.1.0"
-  }
+  "devDependencies": {}
 }
