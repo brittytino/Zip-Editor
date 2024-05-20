@@ -9,14 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devansh016/Cloud-IDE.git"
+    "url": "git+https://github.com/brittytino/Zip-Editor.git"
   },
-  "author": "Devansh Chaudhary",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/devansh016/Cloud-IDE/issues"
+    "bugs": {
+    "url": "https://github.com/brittytino/Zip-Editor/issues"
   },
-  "homepage": "https://github.com/devansh016/Cloud-IDE#readme",
+  "homepage": "https://github.com/brittytino/Zip-Editor#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
