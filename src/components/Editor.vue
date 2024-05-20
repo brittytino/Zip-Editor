@@ -62,9 +62,9 @@
         )
       "
     >
-      <h2 class="title">Welcome to Zip Editor</h2>
+      <h2 class="title">Welcome to Snipp.in</h2>
       <p class="description">
-        Zip Editor is an in-browser snippet manager and editor.
+        Snipp.in is an in-browser snippet manager and editor.
       </p>
 
       <h3 class="menu-title">Get Started</h3>
@@ -90,7 +90,7 @@
       <ul class="menu">
         <li>
           <a
-            href="https://github.com/haxzie/Zip Editor"
+            href="https://github.com/haxzie/snipp.in"
             target="_blank"
             ref="noopener noreferrer"
             ><GithubIcon class="icon" size="18" /> GitHub</a
@@ -98,7 +98,7 @@
         </li>
         <li>
           <a
-            href="https://github.com/haxzie/Zip Editor/issues"
+            href="https://github.com/haxzie/snipp.in/issues"
             target="_blank"
             ref="noopener noreferrer"
             ><GitPullRequestIcon class="icon" size="18" /> Report a bug or an

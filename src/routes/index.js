@@ -11,7 +11,7 @@ const router = new Router({
       path: "/",
       component: () => import("@/pages/Home"),
       meta: {
-        title: "Zip Editor - In-Browser Snippet Manager and Editor",
+        title: "Snipp.in - In-Browser Snippet Manager and Editor",
         metaTags: [
           {
             name: "description",
